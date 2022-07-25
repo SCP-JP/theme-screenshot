@@ -1,0 +1,18 @@
+.printuser img {
+    display: none;
+}
+.wikisys--template-dialog {
+    display: none;
+}
+.number.prw54353 {
+    font-size: 0;
+}
+.number.prw54353:after {
+    font-size: 11px;
+    content: "0";
+}
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+    display:none;
+}

@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "ScreenCapture Test",
+    "version": "1.0",
+    "description": "ScreenCapture Test",
+    "permissions": ["activeTab", "scripting", "downloads"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
