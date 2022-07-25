@@ -16,5 +16,5 @@ Chrome settings:
     > Height: 768
 ```
 
-ボタンをクリックすると．テーマ用のサムネイル画像が保存されます．
+ボタンをクリックすると．テーマ用のサムネイル画像が保存されます．  
 ![image](https://user-images.githubusercontent.com/57354947/180848193-99270d93-cea9-4b0a-9b2d-3d48612bee55.png)
