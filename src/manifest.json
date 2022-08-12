@@ -1,10 +1,13 @@
 {
-    "manifest_version": 3,
-    "name": "ScreenCapture Test",
-    "version": "1.0",
-    "description": "ScreenCapture Test",
-    "permissions": ["activeTab", "scripting", "downloads"],
-    "action": {
-      "default_popup": "popup.html"
-    }
+  "manifest_version": 3,
+  "name": "ScreenCapture Test",
+  "version": "1.0",
+  "description": "ScreenCapture Test",
+  "permissions": ["activeTab", "scripting", "downloads", "tabs"],
+  "host_permissions": [
+    "*://*.wikidot.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
   }
+}
